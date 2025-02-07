@@ -2,7 +2,7 @@
   "name": "practicamongo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Akmendez123.github.io/practicamongo",
+  "homepage": "http://kmendez123.github.io/practicamongo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
